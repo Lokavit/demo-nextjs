@@ -1,12 +1,16 @@
 # Demo-Nextjs
 
-### Nextjs 那些优点
+### 
 
 - 当前页面定义`Head`、`title`
 - Script:当前页面`src`，可设置懒加载等属性
 - Image 处理：内置优化、懒加载等
 - 模块化 css，可减少 class 名冲突。（该条待定，需看最终 css 文件压缩状况）
 - - css 模块构建时从 js 提取，生成`.css`文件，由 Nextjs 自动加载
+- `css`在使用时无提示
+- md文件是用fs模块处理。
+- `Fetch API`
+- `npm link`自有`lib-js`JS原子库
 
 ---
 
